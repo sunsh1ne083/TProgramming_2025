@@ -1,14 +1,12 @@
 {
-    "name": "rpg-saga",
-    "version": "1.0.0",
-    "description": "Akvelon RPG SAGA",
-    "main": "main.ts",
-    "scripts": {
-        "start": "ts-node main.ts"
-    },
-    "devDependencies": {
-        "@types/node": "^20.0.0",
-        "ts-node": "^10.9.0",
-        "typescript": "^5.0.0"
-    }
+  "name": "tprogramming_2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
 }
